@@ -4,5 +4,6 @@ How to create custom methods like .toString() in java
 
 Learn data structures
 
+understand more core java
 
 Thank you
